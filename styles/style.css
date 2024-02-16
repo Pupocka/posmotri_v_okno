@@ -44,7 +44,6 @@ ol {
   display: flex;
   gap: 30px;
   margin: 0 30px;
-  height: 534px;
 }
 
 .result {
@@ -55,7 +54,7 @@ ol {
   position: relative;
   overflow: auto;
   scrollbar-width: none;
-  
+  height: 298px;
 }
 
 .search-form {
